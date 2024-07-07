@@ -1,0 +1,15 @@
+title,author,path,source,categories
+Projects,Isabella Velásquez,https://ivelasq.rbind.io/project,https://github.com/ivelasq/pipedream/blob/main/project.qmd,grid
+Publications,Mickaël Canouil,https://mickael.canouil.fr/publications,https://github.com/mcanouil/mickael.canouil.fr/blob/main/publications.qmd,table
+Schedule,Designing the data science classroom,https://rstudio-conf-2022.github.io/teach-ds/schedule.html,https://github.com/rstudio-conf-2022/teach-ds/blob/main/schedule.qmd,table
+Talks,Meghan Hall,https://meghan.rbind.io/talks/,https://github.com/meghall06/personal-website/blob/master/talks/index.qmd,custom
+Teaching,Andrew Heiss,https://www.andrewheiss.com/teaching/,https://github.com/andrewheiss/ath-quarto/blob/main/teaching/index.qmd,custom
+Conferences,R/Medicine,https://rconsortium.github.io/RMedicine_website/Events.html,https://github.com/RConsortium/RMedicine_website/blob/main/Events.qmd,custom
+People,Masiello Research Group,http://faculty.washington.edu/masiello/people/,https://github.com/MasielloGroup/MasielloGroupWebsite/blob/main/people/index.qmd,custom
+Ops Report,Jeremy Allen,https://jeremydata.quarto.pub/lovelace-weekly-ops-report/,https://github.com/jeremy-allen/quarto-listings-report/blob/main/index.qmd,grid
+Talks,Ella Kaye,https://ellakaye.co.uk/talks.html,https://github.com/EllaKaye/ellakaye.co.uk/blob/main/talks.qmd,grid
+Publications,AffCom Lab,https://affcom.ku.edu/publications.html,https://github.com/jmgirard/affcomlab/blob/main/publications.qmd,custom
+Speakers,satRday template,https://satrdays.github.io/quarto-satrdays-template/program/speakers/,https://github.com/satRdays/quarto-satrdays-template/blob/main/program/speakers/index.qmd,custom
+Extensions,Quarto Extensions,https://m.canouil.dev/quarto-extensions/extensions.html,https://github.com/mcanouil/quarto-extensions/blob/main/extensions.qmd,grid
+Learn,tidymodels,https://www.tidymodels.org/learn/,https://github.com/tidymodels/tidymodels.org/blob/main/learn/index.qmd,grid
+Examples,Posit Workbench,https://docs.posit.co/helm/examples/workbench/,https://github.com/rstudio/helm/blob/main/examples/workbench/index.qmd,custom
