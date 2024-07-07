@@ -3,8 +3,11 @@ title: Listing Examples
 listing:
   contents: listings.yml
   type: table
+  image-height: 150px
+  sort-ui: false
+  filter-ui: false
   categories: unnumbered
-  fields: [title, source, author, categories]
+  fields: [image, title, source, author, categories]
   field-display-names: 
     source: "Source Code"
     title: "List of"
