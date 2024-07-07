@@ -2,7 +2,12 @@
 title: Listing Examples
 listing:
   contents: listings.yml
-  type: grid
+  type: table
   categories: unnumbered
-  fields: [title, author, source, categories]
+  fields: [title, source, author, categories]
+  field-display-names: 
+    source: "Source Code"
+    title: "List of"
+    categories: Template
+    author: "Author/Site"
 ---
