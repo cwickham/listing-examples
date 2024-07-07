@@ -1,98 +1,109 @@
-- title: Projects
+- title: '[Projects](https://ivelasq.rbind.io/project) [{{< fa brands github >}}](https://github.com/ivelasq/pipedream/blob/main/project.qmd)'
   author: Isabella Velásquez
   path: https://ivelasq.rbind.io/project
-  source: '[</>](https://github.com/ivelasq/pipedream/blob/main/project.qmd)'
+  source: https://github.com/ivelasq/pipedream/blob/main/project.qmd
   categories:
     - grid
   image: thumbnails/ivelasq.rbind.io_project.png
-- title: Publications
+- title: '[Publications](https://mickael.canouil.fr/publications) [{{< fa brands github
+    >}}](https://github.com/mcanouil/mickael.canouil.fr/blob/main/publications.qmd)'
   author: Mickaël Canouil
   path: https://mickael.canouil.fr/publications
-  source: '[</>](https://github.com/mcanouil/mickael.canouil.fr/blob/main/publications.qmd)'
+  source: https://github.com/mcanouil/mickael.canouil.fr/blob/main/publications.qmd
   categories:
     - table
   image: thumbnails/mickael.canouil.fr_publications.png
-- title: Learning Modules
+- title: '[Learning Modules](https://rstudio-conf-2022.github.io/teach-ds/schedule.html)
+    [{{< fa brands github >}}](https://github.com/rstudio-conf-2022/teach-ds/blob/main/schedule.qmd)'
   author: Designing the data science classroom
   path: https://rstudio-conf-2022.github.io/teach-ds/schedule.html
-  source: '[</>](https://github.com/rstudio-conf-2022/teach-ds/blob/main/schedule.qmd)'
+  source: https://github.com/rstudio-conf-2022/teach-ds/blob/main/schedule.qmd
   categories:
     - table
   image: thumbnails/rstudio-conf-2022.github.io_teach-ds_schedule.html.png
-- title: Talks
+- title: '[Talks](https://meghan.rbind.io/talks/) [{{< fa brands github >}}](https://github.com/meghall06/personal-website/blob/master/talks/index.qmd)'
   author: Meghan Hall
   path: https://meghan.rbind.io/talks/
-  source: '[</>](https://github.com/meghall06/personal-website/blob/master/talks/index.qmd)'
+  source: https://github.com/meghall06/personal-website/blob/master/talks/index.qmd
   categories:
     - custom
   image: thumbnails/meghan.rbind.io_talks_.png
-- title: Teaching
+- title: '[Teaching](https://www.andrewheiss.com/teaching/) [{{< fa brands github
+    >}}](https://github.com/andrewheiss/ath-quarto/blob/main/teaching/index.qmd)'
   author: Andrew Heiss
   path: https://www.andrewheiss.com/teaching/
-  source: '[</>](https://github.com/andrewheiss/ath-quarto/blob/main/teaching/index.qmd)'
+  source: https://github.com/andrewheiss/ath-quarto/blob/main/teaching/index.qmd
   categories:
     - custom
   image: thumbnails/www.andrewheiss.com_teaching_.png
-- title: Conferences
+- title: '[Conferences](https://rconsortium.github.io/RMedicine_website/Events.html)
+    [{{< fa brands github >}}](https://github.com/RConsortium/RMedicine_website/blob/main/Events.qmd)'
   author: R/Medicine
   path: https://rconsortium.github.io/RMedicine_website/Events.html
-  source: '[</>](https://github.com/RConsortium/RMedicine_website/blob/main/Events.qmd)'
+  source: https://github.com/RConsortium/RMedicine_website/blob/main/Events.qmd
   categories:
     - custom
   image: thumbnails/rconsortium.github.io_RMedicine_website_Events.html.png
-- title: People
+- title: '[People](http://faculty.washington.edu/masiello/people/) [{{< fa brands
+    github >}}](https://github.com/MasielloGroup/MasielloGroupWebsite/blob/main/people/index.qmd)'
   author: Masiello Research Group
   path: http://faculty.washington.edu/masiello/people/
-  source: '[</>](https://github.com/MasielloGroup/MasielloGroupWebsite/blob/main/people/index.qmd)'
+  source: https://github.com/MasielloGroup/MasielloGroupWebsite/blob/main/people/index.qmd
   categories:
     - custom
   image: thumbnails/faculty.washington.edu_masiello_people_.png
-- title: Accounts
+- title: '[Accounts](https://jeremydata.quarto.pub/lovelace-weekly-ops-report/) [{{<
+    fa brands github >}}](https://github.com/jeremy-allen/quarto-listings-report/blob/main/index.qmd)'
   author: Jeremy Allen
   path: https://jeremydata.quarto.pub/lovelace-weekly-ops-report/
-  source: '[</>](https://github.com/jeremy-allen/quarto-listings-report/blob/main/index.qmd)'
+  source: https://github.com/jeremy-allen/quarto-listings-report/blob/main/index.qmd
   categories:
     - grid
   image: thumbnails/jeremydata.quarto.pub_lovelace-weekly-ops-report_.png
-- title: Talks
+- title: '[Talks](https://ellakaye.co.uk/talks.html) [{{< fa brands github >}}](https://github.com/EllaKaye/ellakaye.co.uk/blob/main/talks.qmd)'
   author: Ella Kaye
   path: https://ellakaye.co.uk/talks.html
-  source: '[</>](https://github.com/EllaKaye/ellakaye.co.uk/blob/main/talks.qmd)'
+  source: https://github.com/EllaKaye/ellakaye.co.uk/blob/main/talks.qmd
   categories:
     - grid
   image: thumbnails/ellakaye.co.uk_talks.html.png
-- title: Publications
+- title: '[Publications](https://affcom.ku.edu/publications.html) [{{< fa brands github
+    >}}](https://github.com/jmgirard/affcomlab/blob/main/publications.qmd)'
   author: AffCom Lab
   path: https://affcom.ku.edu/publications.html
-  source: '[</>](https://github.com/jmgirard/affcomlab/blob/main/publications.qmd)'
+  source: https://github.com/jmgirard/affcomlab/blob/main/publications.qmd
   categories:
     - custom
   image: thumbnails/affcom.ku.edu_publications.html.png
-- title: Speakers
+- title: '[Speakers](https://satrdays.github.io/quarto-satrdays-template/program/speakers/)
+    [{{< fa brands github >}}](https://github.com/satRdays/quarto-satrdays-template/blob/main/program/speakers/index.qmd)'
   author: satRday template
   path: https://satrdays.github.io/quarto-satrdays-template/program/speakers/
-  source: '[</>](https://github.com/satRdays/quarto-satrdays-template/blob/main/program/speakers/index.qmd)'
+  source: https://github.com/satRdays/quarto-satrdays-template/blob/main/program/speakers/index.qmd
   categories:
     - custom
   image: thumbnails/satrdays.github.io_quarto-satrdays-template_program_speakers_.png
-- title: Extensions
+- title: '[Extensions](https://m.canouil.dev/quarto-extensions/extensions.html) [{{<
+    fa brands github >}}](https://github.com/mcanouil/quarto-extensions/blob/main/extensions.qmd)'
   author: Quarto Extensions
   path: https://m.canouil.dev/quarto-extensions/extensions.html
-  source: '[</>](https://github.com/mcanouil/quarto-extensions/blob/main/extensions.qmd)'
+  source: https://github.com/mcanouil/quarto-extensions/blob/main/extensions.qmd
   categories:
     - grid
   image: thumbnails/m.canouil.dev_quarto-extensions_extensions.html.png
-- title: Learning Resources
+- title: '[Learning Resources](https://www.tidymodels.org/learn/) [{{< fa brands github
+    >}}](https://github.com/tidymodels/tidymodels.org/blob/main/learn/index.qmd)'
   author: tidymodels
   path: https://www.tidymodels.org/learn/
-  source: '[</>](https://github.com/tidymodels/tidymodels.org/blob/main/learn/index.qmd)'
+  source: https://github.com/tidymodels/tidymodels.org/blob/main/learn/index.qmd
   categories:
     - grid
   image: thumbnails/www.tidymodels.org_learn_.png
-- title: Examples
+- title: '[Examples](https://docs.posit.co/helm/examples/workbench/) [{{< fa brands
+    github >}}](https://github.com/rstudio/helm/blob/main/examples/workbench/index.qmd)'
   author: Posit Workbench
   path: https://docs.posit.co/helm/examples/workbench/
-  source: '[</>](https://github.com/rstudio/helm/blob/main/examples/workbench/index.qmd)'
+  source: https://github.com/rstudio/helm/blob/main/examples/workbench/index.qmd
   categories:
     - custom
   image: thumbnails/docs.posit.co_helm_examples_workbench_.png

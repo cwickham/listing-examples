@@ -6,7 +6,7 @@ listings <- read_csv(here("data", "listings.csv"))
 
 listings |> 
   mutate(
-    source = paste0("[</>](", source, ")"),
+    title = paste0("[", title, "]", "(", path, ")", " [{{< fa brands github >}}](", source, ")"), 
     categories = map(categories, list)
   ) |> 
   transpose() |>

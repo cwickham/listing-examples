@@ -1,16 +1,17 @@
 ---
-title: Listing Examples
+title: Listing Examples 
 listing:
+  id: examples
   contents: listings.yml
-  type: table
-  image-height: 150px
+  type: grid
+  grid-columns: 2
   sort-ui: false
   filter-ui: false
   categories: unnumbered
-  fields: [image, title, source, author, categories]
+  fields: [image, title, author, categories]
   field-display-names: 
-    source: "Source Code"
     title: "List of"
     categories: Template
     author: "Author/Site"
 ---
+
