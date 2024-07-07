@@ -1,0 +1,70 @@
+- title: Projects
+  author: Isabella Velásquez
+  path: https://ivelasq.rbind.io/project
+  source: https://github.com/ivelasq/pipedream/blob/main/project.qmd
+  categories: [grid]
+- title: Publications
+  author: Mickaël Canouil
+  path: https://mickael.canouil.fr/publications
+  source: https://github.com/mcanouil/mickael.canouil.fr/blob/main/publications.qmd
+  categories: [table]
+- title: Schedule
+  author: Designing the data science classroom
+  path: https://rstudio-conf-2022.github.io/teach-ds/schedule.html
+  source: https://github.com/rstudio-conf-2022/teach-ds/blob/main/schedule.qmd
+  categories: [table]
+- title: Talks
+  author: Meghan Hall
+  path: https://meghan.rbind.io/talks/
+  source: https://github.com/meghall06/personal-website/blob/master/talks/index.qmd
+  categories: [custom]
+- title: Teaching 
+  author: Andrew Heiss
+  path: https://www.andrewheiss.com/teaching/
+  source: https://github.com/andrewheiss/ath-quarto/blob/main/teaching/index.qmd
+  categories: [custom]
+- title: Conferences
+  author: R/Medicine
+  path: https://rconsortium.github.io/RMedicine_website/Events.html
+  source: https://github.com/RConsortium/RMedicine_website/blob/main/Events.qmd
+  categories: [custom]
+- title: People
+  author: Masiello Research Group
+  path: http://faculty.washington.edu/masiello/people/
+  source: https://github.com/MasielloGroup/MasielloGroupWebsite/blob/main/people/index.qmd
+  categories: [custom]
+- title: Ops Report
+  author: Jeremy Allen
+  path: https://jeremydata.quarto.pub/lovelace-weekly-ops-report/
+  source: https://github.com/jeremy-allen/quarto-listings-report/blob/main/index.qmd
+  categories: [grid]
+- title: Talks
+  author: Ella Kaye
+  path: https://ellakaye.co.uk/talks.html
+  source: https://github.com/EllaKaye/ellakaye.co.uk/blob/main/talks.qmd
+  categories: [grid]
+- title: Publications
+  author: AffCom Lab
+  path: https://affcom.ku.edu/publications.html
+  source: https://github.com/jmgirard/affcomlab/blob/main/publications.qmd
+  categories: [custom]
+- title: Speakers
+  author: satRday template
+  path: https://satrdays.github.io/quarto-satrdays-template/program/speakers/
+  source: https://github.com/satRdays/quarto-satrdays-template/blob/main/program/speakers/index.qmd
+  categories: [custom]
+- title: Extensions
+  author: Quarto Extensions
+  path: https://m.canouil.dev/quarto-extensions/extensions.html  
+  source: https://github.com/mcanouil/quarto-extensions/blob/main/extensions.qmd
+  categories: [grid]
+- title: Learn
+  author: tidymodels
+  path: https://www.tidymodels.org/learn/
+  source: https://github.com/tidymodels/tidymodels.org/blob/main/learn/index.qmd
+  categories: [grid]
+- title: Examples
+  author: Posit Workbench
+  path: https://docs.posit.co/helm/examples/workbench/
+  source: https://github.com/rstudio/helm/blob/main/examples/workbench/index.qmd
+  categories: [custom]

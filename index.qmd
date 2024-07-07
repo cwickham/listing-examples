@@ -1,0 +1,8 @@
+---
+title: Listing Examples
+listing:
+  contents: listings.yml
+  type: grid
+  categories: unnumbered
+  fields: [title, author, source, categories]
+---
