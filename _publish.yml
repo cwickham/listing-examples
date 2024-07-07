@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c2247561-52bc-44e9-8c65-489d5adf1a75
+      url: 'https://charlotte.quarto.pub/listings'
